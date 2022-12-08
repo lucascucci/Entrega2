@@ -1,0 +1,12 @@
+.home {
+    font-size: 20px;
+    background-color: rgb(109, 238, 137);
+    display: flex;
+}
+
+.prod  {
+    font-size: 20px;
+    background-color: rgb(109, 238, 137);
+    text-align: center;
+    display: flex;
+}

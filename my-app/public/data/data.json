@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "RTX 3070 TI",
+        "id": 1,
+        "precio": 160000,
+        "detalle": "MSI 3080",
+        "imagen": "https://images.fravega.com/f500/02392f4a30189dbbebfd0d9cf5b8de3a.jpg"
+    },
+    {
+        "titulo": "CPU Gamer",
+        "id": 2,
+        "precio": 27000,
+        "detalle": "Ryzen 9, 1Tb SSD",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_762295-MLA43987849463_112020-F.webp"
+    },
+    {
+        "titulo": "Monitor Hyperx",
+        "id": 3,
+        "precio": 70000,
+        "detalle": "Resolucion 4k",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_901620-MLA51058919767_082022-O.jpg"
+    },
+    {
+        "titulo": "Teclado",
+        "id": 4,
+        "precio": 20000,
+        "detalle": "Red dragon",
+        "imagen": "https://www.compu-santafe.com.ar/productos/get-imagen/8926"
+    }
+]
